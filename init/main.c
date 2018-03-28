@@ -6,7 +6,7 @@
 
 #include <stdarg.h>
 
-#include <asm/system.h>
+//#include <asm/system.h>
 #include <asm/io.h>
 
 #include <linux/types.h>
